@@ -1,1 +1,1 @@
-prinf("Hello git")
+print("Hello git")
